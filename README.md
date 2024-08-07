@@ -1,0 +1,29 @@
+- [사이트 바로가기] (https://veganiety.vercel.app/)
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=안녕하세요%20반갑습니다&animation=twinkling&fontColor=a609fb&fontSize=50" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 챔피언! 성실한 내가! 챔피언! 책임감있는 내가! </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 열정적인 신입으로서 성공의 길을 함께 걸어 나가고 싶습니다.<br></li>목표달성에 이바지하는 든든한 웹 디자이너 박보람이 되겠습니다!</li> </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+          </div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://www.notion.so/lovelybr0903/Web-Design-ab4e8da16caf45efa4bb158dcaa1795f?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/lovelybr0903/Web-Design-ab4e8da16caf45efa4bb158dcaa1795f?pvs=4"> </a>
+         <a href=mailto:lovelybr0903@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lovelybr0903@gmail.com"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    
